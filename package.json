@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "@ionic/react": "^7.4.0",
-    "ionic-react-pwa-install": "^0.0.7",
+    "ionic-react-pwa-install": "@latest",
     "mobile-device-detect": "^0.4.3",
     "vite-plugin-checker": "^0.6.2"
   }
