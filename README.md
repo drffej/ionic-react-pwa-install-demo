@@ -12,7 +12,7 @@ For instructions on how to use the package - see [https://github.com/drffej/ioni
 
 ### Edge Browser Install
 
-<kbd><img src="./screenshots/pwaedge.png" width="50%"></kbd>
+<img src="./screenshots/pwaedge.png" width="50%" style="border: .5px solid;" >
 
 ### iOS iPhone
 
